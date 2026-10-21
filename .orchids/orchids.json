@@ -1,0 +1,6 @@
+{
+  "projectId": "efc542a2-bbd7-4fbb-bbe6-1991ff3970c9",
+  "createdAt": 1771748630852,
+  "startupCommands": ["bun install; npx vite --port 8080 --host"],
+  "templateId": "react-vite"
+}
